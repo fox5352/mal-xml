@@ -1,0 +1,5071 @@
+{
+  "entries": [
+    {
+      "name": "Tokyo Ghoul:re 2nd Season",
+      "status": "watched",
+      "started": "2018-11-08 04:31:55-08",
+      "completed": "2019-06-10 02:23:46-07",
+      "rating": 5,
+      "times": 2,
+      "eps": 12
+    },
+    {
+      "name": "Tokyo Ghoul \u221aA",
+      "status": "watched",
+      "started": "2018-11-08 04:33:52-08",
+      "completed": "2018-11-08 04:33:52-08",
+      "rating": 3,
+      "times": 5,
+      "eps": 12
+    },
+    {
+      "name": "Fullmetal Alchemist: Brotherhood",
+      "status": "dropped",
+      "started": null,
+      "completed": "2018-11-08 04:52:13-08",
+      "rating": 3,
+      "times": 0,
+      "eps": 25
+    },
+    {
+      "name": "My Hero Academia 3",
+      "status": "watched",
+      "started": "2018-11-08 04:52:40-08",
+      "completed": "2018-11-08 04:52:40-08",
+      "rating": 3,
+      "times": 3,
+      "eps": 25
+    },
+    {
+      "name": "My Hero Academia 2",
+      "status": "watched",
+      "started": "2018-11-08 04:53:42-08",
+      "completed": "2018-11-08 04:53:42-08",
+      "rating": 3.5,
+      "times": 2,
+      "eps": 25
+    },
+    {
+      "name": "Gintama\u00b0",
+      "status": "dropped",
+      "started": null,
+      "completed": "2018-11-08 04:54:05-08",
+      "rating": 3,
+      "times": 0,
+      "eps": 5
+    },
+    {
+      "name": "One-Punch Man",
+      "status": "watched",
+      "started": "2018-11-08 04:54:37-08",
+      "completed": "2018-11-08 04:54:37-08",
+      "rating": 4.5,
+      "times": 3,
+      "eps": 12
+    },
+    {
+      "name": "No Game No Life: Zero",
+      "status": "watched",
+      "started": "2018-11-08 15:39:54-08",
+      "completed": "2018-11-08 15:39:54-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Attack on Titan 3rd Season",
+      "status": "watched",
+      "started": "2018-11-08 15:40:44-08",
+      "completed": "2018-11-08 15:40:44-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Food Wars! The Second Plate",
+      "status": "watched",
+      "started": "2019-01-30 18:05:49-08",
+      "completed": "2019-09-22 17:47:15-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Food Wars! The Third Plate",
+      "status": "watched",
+      "started": "2020-02-18 05:46:09-08",
+      "completed": "2020-02-28 17:01:45-08",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Kamisama Kiss: Kako-hen",
+      "status": "watched",
+      "started": "2018-11-08 15:41:46-08",
+      "completed": "2018-11-08 15:41:46-08",
+      "rating": 2,
+      "times": 2,
+      "eps": 4
+    },
+    {
+      "name": "Food Wars! The Third Plate: Totsuki Train Arc",
+      "status": "watched",
+      "started": "2020-02-28 17:02:04-08",
+      "completed": "2020-02-28 17:02:04-08",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Overlord III",
+      "status": "watched",
+      "started": "2019-01-09 13:45:35-08",
+      "completed": "2019-01-26 13:38:49-08",
+      "rating": 5,
+      "times": 4,
+      "eps": 13
+    },
+    {
+      "name": "Omamori Himari",
+      "status": "watched",
+      "started": "2021-11-23 20:22:44-08",
+      "completed": "2021-11-23 20:22:44-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Infinite Stratos: World Purge-hen",
+      "status": "watched",
+      "started": "2018-11-08 16:15:03-08",
+      "completed": "2018-11-08 16:15:03-08",
+      "rating": 3.5,
+      "times": 3,
+      "eps": 1
+    },
+    {
+      "name": "Trinity Seven",
+      "status": "watched",
+      "started": "2018-11-08 16:15:16-08",
+      "completed": "2018-11-08 16:15:16-08",
+      "rating": 4,
+      "times": 3,
+      "eps": 12
+    },
+    {
+      "name": "The Testament of Sister New Devil",
+      "status": "watched",
+      "started": "2018-11-08 16:15:28-08",
+      "completed": "2018-11-08 16:15:28-08",
+      "rating": 2,
+      "times": 6,
+      "eps": 12
+    },
+    {
+      "name": "Sekirei",
+      "status": "watched",
+      "started": "2018-11-08 16:16:39-08",
+      "completed": "2018-11-08 16:16:39-08",
+      "rating": 2.5,
+      "times": 3,
+      "eps": 12
+    },
+    {
+      "name": "So, I Can't Play H!",
+      "status": "stalled",
+      "started": "2019-12-02 19:15:43-08",
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 5
+    },
+    {
+      "name": "Goblin Slayer",
+      "status": "stalled",
+      "started": "2018-11-08 16:45:38-08",
+      "completed": null,
+      "rating": 4,
+      "times": 0,
+      "eps": 11
+    },
+    {
+      "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon? II",
+      "status": "watched",
+      "started": "2019-09-22 17:57:19-07",
+      "completed": "2019-11-27 18:33:36-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Noragami Aragoto OVA",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "The Seven Deadly Sins",
+      "status": "watched",
+      "started": "2018-11-08 17:02:13-08",
+      "completed": "2018-11-08 17:02:13-08",
+      "rating": 3.5,
+      "times": 2,
+      "eps": 24
+    },
+    {
+      "name": "Armed Girl\u2019s Machiavellism",
+      "status": "watched",
+      "started": "2018-11-08 17:05:18-08",
+      "completed": "2018-11-08 17:05:18-08",
+      "rating": 4.5,
+      "times": 2,
+      "eps": 12
+    },
+    {
+      "name": "Attack on Titan 2nd Season",
+      "status": "watched",
+      "started": "2018-11-08 17:05:57-08",
+      "completed": "2018-11-08 17:05:57-08",
+      "rating": 3,
+      "times": 2,
+      "eps": 12
+    },
+    {
+      "name": "Attack on Titan",
+      "status": "watched",
+      "started": "2018-11-08 17:06:19-08",
+      "completed": "2018-11-08 17:06:19-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 25
+    },
+    {
+      "name": "Campione!",
+      "status": "watched",
+      "started": "2018-11-08 17:07:08-08",
+      "completed": "2018-11-08 17:07:08-08",
+      "rating": 0.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Date a Live",
+      "status": "watched",
+      "started": "2018-11-08 17:08:38-08",
+      "completed": "2018-11-08 17:08:38-08",
+      "rating": 3.5,
+      "times": 3,
+      "eps": 12
+    },
+    {
+      "name": "Date a Live II",
+      "status": "watched",
+      "started": "2018-11-08 17:08:57-08",
+      "completed": "2018-11-08 17:08:57-08",
+      "rating": 3.5,
+      "times": 2,
+      "eps": 10
+    },
+    {
+      "name": "High School DxD",
+      "status": "watched",
+      "started": "2018-11-08 17:10:03-08",
+      "completed": "2018-11-08 17:10:03-08",
+      "rating": 4,
+      "times": 4,
+      "eps": 12
+    },
+    {
+      "name": "High School DxD BorN",
+      "status": "watched",
+      "started": "2018-11-08 17:10:17-08",
+      "completed": "2018-11-08 17:10:17-08",
+      "rating": 3.5,
+      "times": 3,
+      "eps": 12
+    },
+    {
+      "name": "High School DxD Hero",
+      "status": "watched",
+      "started": "2018-11-08 17:10:41-08",
+      "completed": "2018-11-08 17:10:41-08",
+      "rating": 4.5,
+      "times": 2,
+      "eps": 12
+    },
+    {
+      "name": "High School DxD NEW",
+      "status": "watched",
+      "started": "2018-11-08 17:11:20-08",
+      "completed": "2018-11-08 17:11:20-08",
+      "rating": 3.5,
+      "times": 3,
+      "eps": 12
+    },
+    {
+      "name": "The Asterisk War",
+      "status": "watched",
+      "started": "2018-11-08 17:12:12-08",
+      "completed": "2018-11-08 17:12:12-08",
+      "rating": 4,
+      "times": 3,
+      "eps": 12
+    },
+    {
+      "name": "The Asterisk War (2016)",
+      "status": "watched",
+      "started": "2018-11-08 17:12:55-08",
+      "completed": "2018-11-08 17:12:55-08",
+      "rating": 3.5,
+      "times": 2,
+      "eps": 12
+    },
+    {
+      "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+      "status": "watched",
+      "started": "2018-11-08 17:14:01-08",
+      "completed": "2018-11-08 17:14:01-08",
+      "rating": 5,
+      "times": 10,
+      "eps": 13
+    },
+    {
+      "name": "Sword Oratoria: Is it Wrong to Try to Pick Up Girls in a Dungeon? On the Side",
+      "status": "watched",
+      "started": "2018-11-08 17:14:24-08",
+      "completed": "2018-11-08 17:14:24-08",
+      "rating": 3.5,
+      "times": 2,
+      "eps": 12
+    },
+    {
+      "name": "Bleach",
+      "status": "watched",
+      "started": "2018-11-08 17:15:00-08",
+      "completed": "2018-11-08 17:15:00-08",
+      "rating": 5,
+      "times": 3,
+      "eps": 366
+    },
+    {
+      "name": "One-Punch Man 2",
+      "status": "watched",
+      "started": "2019-11-09 17:45:16-08",
+      "completed": "2019-11-09 17:45:16-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Rosario + Vampire Capu2",
+      "status": "watched",
+      "started": "2018-11-09 02:33:18-08",
+      "completed": "2018-11-09 02:33:18-08",
+      "rating": 4,
+      "times": 3,
+      "eps": 13
+    },
+    {
+      "name": "Rosario + Vampire",
+      "status": "watched",
+      "started": "2018-11-09 02:33:32-08",
+      "completed": "2018-11-09 02:33:32-08",
+      "rating": 4.5,
+      "times": 2,
+      "eps": 13
+    },
+    {
+      "name": "Infinite Stratos",
+      "status": "watched",
+      "started": "2018-11-09 02:35:32-08",
+      "completed": "2018-11-09 02:35:32-08",
+      "rating": 3.5,
+      "times": 2,
+      "eps": 12
+    },
+    {
+      "name": "Infinite Stratos 2",
+      "status": "watched",
+      "started": "2018-11-09 02:35:44-08",
+      "completed": "2018-11-09 02:35:44-08",
+      "rating": 3.5,
+      "times": 2,
+      "eps": 12
+    },
+    {
+      "name": "Tokyo Ghoul",
+      "status": "watched",
+      "started": "2018-11-09 02:36:39-08",
+      "completed": "2018-11-09 02:36:39-08",
+      "rating": 5,
+      "times": 4,
+      "eps": 12
+    },
+    {
+      "name": "Tokyo Ghoul:re",
+      "status": "watched",
+      "started": "2018-11-09 02:37:17-08",
+      "completed": "2018-11-09 02:37:17-08",
+      "rating": 4.5,
+      "times": 3,
+      "eps": 12
+    },
+    {
+      "name": "Is this a Zombie? Of the Dead: Yes, This Suits Me Just Fine",
+      "status": "watched",
+      "started": "2018-11-09 02:38:46-08",
+      "completed": "2018-11-09 02:38:46-08",
+      "rating": 3,
+      "times": 3,
+      "eps": 1
+    },
+    {
+      "name": "Is this a Zombie?",
+      "status": "watched",
+      "started": "2018-11-09 02:39:13-08",
+      "completed": "2018-11-09 02:39:13-08",
+      "rating": 5,
+      "times": 3,
+      "eps": 12
+    },
+    {
+      "name": "Kamisama Kiss",
+      "status": "watched",
+      "started": "2018-11-09 02:48:31-08",
+      "completed": "2018-11-09 02:48:31-08",
+      "rating": 3,
+      "times": 2,
+      "eps": 13
+    },
+    {
+      "name": "Soul Eater",
+      "status": "stalled",
+      "started": "2018-11-10 10:16:52-08",
+      "completed": null,
+      "rating": 4.5,
+      "times": 2,
+      "eps": 35
+    },
+    {
+      "name": "A Silent Voice",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Date a Live III",
+      "status": "watched",
+      "started": "2019-01-16 17:32:53-08",
+      "completed": "2019-11-30 03:29:19-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Pastel Memories",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Attack on Titan 3rd Season: Part II",
+      "status": "watched",
+      "started": "2019-09-08 16:53:14-07",
+      "completed": "2019-09-08 16:53:14-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 10
+    },
+    {
+      "name": "Wise Man\u2019s Grandchild",
+      "status": "watched",
+      "started": "2019-06-10 02:28:33-07",
+      "completed": "2019-09-22 17:51:42-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Demon Slayer: Kimetsu no Yaiba",
+      "status": "watched",
+      "started": "2019-09-08 16:53:26-07",
+      "completed": "2019-10-06 19:36:40-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 26
+    },
+    {
+      "name": "Magical Sempai",
+      "status": "dropped",
+      "started": "2019-12-02 19:14:45-08",
+      "completed": "2020-02-09 07:42:40-08",
+      "rating": 1.5,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Cagaster of an Insect Cage",
+      "status": "dropped",
+      "started": null,
+      "completed": "2020-06-06 22:03:03-07",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "ORESUKI: Are you the only one who loves me?",
+      "status": "watched",
+      "started": "2019-11-30 03:47:32-08",
+      "completed": "2020-01-14 17:54:50-08",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Why the Hell are You Here, Teacher!?",
+      "status": "watched",
+      "started": "2019-12-02 19:16:23-08",
+      "completed": "2019-12-02 19:16:23-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "My Hero Academia 4",
+      "status": "watched",
+      "started": "2019-11-30 03:40:29-08",
+      "completed": "2020-06-16 15:23:30-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 25
+    },
+    {
+      "name": "We Never Learn",
+      "status": "watched",
+      "started": "2019-12-02 19:16:15-08",
+      "completed": "2019-12-02 19:16:15-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon? Movie: Arrow of the Orion",
+      "status": "watched",
+      "started": "2019-12-02 19:14:42-08",
+      "completed": "2019-12-02 19:14:42-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Trinity Seven Movie 2: Heavens Library & Crimson Lord",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Trinity Seven Movie: Eternal Library & Alchemic Girl",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Undefeated Bahamut Chronicle",
+      "status": "stalled",
+      "started": "2019-12-02 19:16:05-08",
+      "completed": null,
+      "rating": 2,
+      "times": 0,
+      "eps": 6
+    },
+    {
+      "name": "Black Clover",
+      "status": "watched",
+      "started": "2018-11-20 02:41:47-08",
+      "completed": "2021-10-29 19:49:06-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 170
+    },
+    {
+      "name": "That Time I Got Reincarnated as a Slime",
+      "status": "watched",
+      "started": "2018-11-20 02:42:18-08",
+      "completed": "2019-04-28 11:53:37-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Ulysses: Jeanne d'Arc and the Alchemist Knight",
+      "status": "stalled",
+      "started": "2018-11-20 02:43:28-08",
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 8
+    },
+    {
+      "name": "Angels of Death",
+      "status": "watched",
+      "started": "2018-11-25 00:29:41-08",
+      "completed": "2018-12-15 03:19:51-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Angels of Death (Web)",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Hundred",
+      "status": "watched",
+      "started": "2018-11-21 08:57:27-08",
+      "completed": "2018-11-24 15:09:29-08",
+      "rating": 4,
+      "times": 2,
+      "eps": 12
+    },
+    {
+      "name": "Dororo (2019)",
+      "status": "stalled",
+      "started": null,
+      "completed": null,
+      "rating": 4,
+      "times": 0,
+      "eps": 10
+    },
+    {
+      "name": "Re:ZERO: Starting Life in Another World",
+      "status": "watched",
+      "started": "2018-11-24 15:11:18-08",
+      "completed": "2019-12-10 17:46:45-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 25
+    },
+    {
+      "name": "Claymore",
+      "status": "stalled",
+      "started": "2018-11-30 10:23:39-08",
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 12
+    },
+    {
+      "name": "Berserk",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Deadman Wonderland: The Red Knife Wielder",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Naruto",
+      "status": "watched",
+      "started": "2018-11-25 00:01:23-08",
+      "completed": "2018-11-25 00:01:26-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 220
+    },
+    {
+      "name": "Twin Star Exorcists",
+      "status": "watched",
+      "started": "2019-04-27 05:02:36-07",
+      "completed": "2019-11-30 03:33:33-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 50
+    },
+    {
+      "name": "Maken-ki!",
+      "status": "watched",
+      "started": "2018-11-25 00:04:35-08",
+      "completed": "2018-11-25 00:04:35-08",
+      "rating": 4,
+      "times": 2,
+      "eps": 12
+    },
+    {
+      "name": "Highschool of the Dead",
+      "status": "watched",
+      "started": "2018-11-25 00:04:54-08",
+      "completed": "2018-11-25 00:04:54-08",
+      "rating": 4,
+      "times": 2,
+      "eps": 12
+    },
+    {
+      "name": "The World God Only Knows",
+      "status": "dropped",
+      "started": "2018-11-25 00:05:29-08",
+      "completed": "2018-12-25 06:59:36-08",
+      "rating": 2,
+      "times": 0,
+      "eps": 10
+    },
+    {
+      "name": "Noragami",
+      "status": "watched",
+      "started": "2018-11-25 00:05:52-08",
+      "completed": "2018-11-25 00:05:52-08",
+      "rating": 5,
+      "times": 3,
+      "eps": 12
+    },
+    {
+      "name": "Chivalry of a Failed Knight",
+      "status": "watched",
+      "started": "2018-11-25 00:06:10-08",
+      "completed": "2018-11-29 21:47:14-08",
+      "rating": 4,
+      "times": 2,
+      "eps": 12
+    },
+    {
+      "name": "Freezing",
+      "status": "watched",
+      "started": "2018-11-25 00:06:30-08",
+      "completed": "2018-11-25 00:06:30-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Death Note",
+      "status": "stalled",
+      "started": "2018-11-25 00:06:55-08",
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 6
+    },
+    {
+      "name": "Aesthetica of a Rogue Hero",
+      "status": "watched",
+      "started": "2018-11-25 00:08:20-08",
+      "completed": "2018-11-25 00:08:20-08",
+      "rating": 3,
+      "times": 2,
+      "eps": 12
+    },
+    {
+      "name": "Monster Musume no Iru Nichijou",
+      "status": "watched",
+      "started": "2018-11-25 00:09:26-08",
+      "completed": "2018-11-25 00:09:26-08",
+      "rating": 4,
+      "times": 2,
+      "eps": 12
+    },
+    {
+      "name": "Black Lagoon",
+      "status": "watched",
+      "started": "2019-02-21 09:43:40-08",
+      "completed": "2019-02-27 11:46:24-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "GANTZ",
+      "status": "dropped",
+      "started": "2019-01-26 13:46:43-08",
+      "completed": "2019-02-11 11:57:54-08",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 16
+    },
+    {
+      "name": "KonoSuba \u2013 God's blessing on this wonderful world!",
+      "status": "watched",
+      "started": "2019-02-08 10:46:32-08",
+      "completed": "2019-11-30 03:31:52-08",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 10
+    },
+    {
+      "name": "The Devil is a Part-Timer!",
+      "status": "watched",
+      "started": "2018-12-26 15:30:22-08",
+      "completed": "2018-12-29 03:22:38-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Hunter x Hunter (2011)",
+      "status": "watched",
+      "started": "2018-11-25 00:12:28-08",
+      "completed": "2019-11-27 18:33:46-08",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 148
+    },
+    {
+      "name": "Sankarea",
+      "status": "watched",
+      "started": "2018-11-25 00:12:45-08",
+      "completed": "2018-11-25 00:12:45-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Grimgar of Fantasy and Ash",
+      "status": "watched",
+      "started": "2018-11-25 00:13:07-08",
+      "completed": "2018-11-25 00:13:07-08",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Darker than Black",
+      "status": "stalled",
+      "started": "2019-06-10 02:21:43-07",
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 9
+    },
+    {
+      "name": "Mob Psycho 100",
+      "status": "watched",
+      "started": "2018-12-12 08:20:14-08",
+      "completed": "2018-12-12 08:20:14-08",
+      "rating": 3.5,
+      "times": 2,
+      "eps": 12
+    },
+    {
+      "name": "Demon King Daimao",
+      "status": "watched",
+      "started": "2019-11-09 17:47:28-08",
+      "completed": "2019-11-09 17:47:28-08",
+      "rating": 2,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Angel Beats!",
+      "status": "dropped",
+      "started": "2019-01-30 18:03:46-08",
+      "completed": "2019-12-07 20:01:42-08",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 2
+    },
+    {
+      "name": "Blood Lad",
+      "status": "watched",
+      "started": "2018-12-17 05:49:10-08",
+      "completed": "2018-12-17 05:49:10-08",
+      "rating": 3.5,
+      "times": 2,
+      "eps": 10
+    },
+    {
+      "name": "Elfen Lied",
+      "status": "watched",
+      "started": "2019-01-30 18:05:01-08",
+      "completed": "2019-02-05 13:10:12-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Deadman Wonderland",
+      "status": "watched",
+      "started": "2018-11-25 00:25:59-08",
+      "completed": "2018-11-25 00:25:59-08",
+      "rating": 5,
+      "times": 4,
+      "eps": 12
+    },
+    {
+      "name": "Kanokon",
+      "status": "watched",
+      "started": "2018-11-25 00:28:09-08",
+      "completed": "2018-11-25 00:28:09-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Beyond the Boundary",
+      "status": "watched",
+      "started": "2019-01-16 17:32:31-08",
+      "completed": "2019-09-22 17:46:07-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Sekirei: Pure Engagement",
+      "status": "dropped",
+      "started": null,
+      "completed": "2018-11-25 05:23:59-08",
+      "rating": 3.5,
+      "times": 0,
+      "eps": 8
+    },
+    {
+      "name": "Haganai: I Don't Have Many Friends NEXT",
+      "status": "watched",
+      "started": "2018-11-25 05:24:13-08",
+      "completed": "2018-11-25 05:24:13-08",
+      "rating": 3.5,
+      "times": 2,
+      "eps": 12
+    },
+    {
+      "name": "Samurai Girls",
+      "status": "dropped",
+      "started": "2018-12-14 03:21:36-08",
+      "completed": "2019-09-22 17:47:47-07",
+      "rating": 3.5,
+      "times": 0,
+      "eps": 6
+    },
+    {
+      "name": "Tenchi Muyo! War on Geminar",
+      "status": "watched",
+      "started": "2018-11-30 10:24:37-08",
+      "completed": "2018-12-05 14:00:49-08",
+      "rating": 4,
+      "times": 2,
+      "eps": 13
+    },
+    {
+      "name": "Maburaho",
+      "status": "dropped",
+      "started": "2018-12-14 03:21:55-08",
+      "completed": "2019-11-30 03:32:19-08",
+      "rating": 3.5,
+      "times": 0,
+      "eps": 9
+    },
+    {
+      "name": "Ladies Versus Butlers!",
+      "status": "watched",
+      "started": "2018-12-09 18:05:55-08",
+      "completed": "2018-12-09 18:05:55-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Zombie Land Saga",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "One Piece",
+      "status": "dropped",
+      "started": null,
+      "completed": "2018-11-29 14:42:52-08",
+      "rating": 4.5,
+      "times": 0,
+      "eps": 250
+    },
+    {
+      "name": "My Hero Academia",
+      "status": "watched",
+      "started": "2018-11-29 14:43:31-08",
+      "completed": "2018-11-29 14:43:31-08",
+      "rating": 3,
+      "times": 2,
+      "eps": 13
+    },
+    {
+      "name": "Radiant",
+      "status": "watched",
+      "started": "2018-12-18 13:57:06-08",
+      "completed": "2019-11-30 03:32:44-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 21
+    },
+    {
+      "name": "How NOT to Summon a Demon Lord",
+      "status": "watched",
+      "started": "2018-11-29 14:45:51-08",
+      "completed": "2018-12-05 14:01:15-08",
+      "rating": 3,
+      "times": 2,
+      "eps": 12
+    },
+    {
+      "name": "No Game No Life",
+      "status": "watched",
+      "started": "2018-11-29 14:46:06-08",
+      "completed": "2018-11-29 14:46:06-08",
+      "rating": 4.5,
+      "times": 2,
+      "eps": 12
+    },
+    {
+      "name": "Parasyte -the maxim-",
+      "status": "watched",
+      "started": "2018-11-29 14:46:37-08",
+      "completed": "2018-11-29 14:46:37-08",
+      "rating": 5,
+      "times": 2,
+      "eps": 24
+    },
+    {
+      "name": "In Another World With My Smartphone",
+      "status": "watched",
+      "started": "2018-11-30 10:24:10-08",
+      "completed": "2018-12-05 14:01:01-08",
+      "rating": 2,
+      "times": 2,
+      "eps": 12
+    },
+    {
+      "name": "Is this a Zombie? Of the Dead",
+      "status": "watched",
+      "started": "2018-11-29 14:51:11-08",
+      "completed": "2018-11-29 14:51:11-08",
+      "rating": 5,
+      "times": 3,
+      "eps": 10
+    },
+    {
+      "name": "Fairy Tail",
+      "status": "stalled",
+      "started": "2018-11-29 21:51:35-08",
+      "completed": null,
+      "rating": 4,
+      "times": 0,
+      "eps": 17
+    },
+    {
+      "name": "Vandread",
+      "status": "dropped",
+      "started": "2018-12-06 02:44:51-08",
+      "completed": "2018-12-09 17:59:26-08",
+      "rating": 1.5,
+      "times": 0,
+      "eps": 6
+    },
+    {
+      "name": "Hero Mask",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Assassination Classroom",
+      "status": "watched",
+      "started": "2018-12-06 03:18:02-08",
+      "completed": "2019-02-08 10:38:14-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 22
+    },
+    {
+      "name": "World Break: Aria of Curse for a Holy Swordsman",
+      "status": "watched",
+      "started": "2018-12-06 03:28:27-08",
+      "completed": "2018-12-25 06:57:12-08",
+      "rating": 3,
+      "times": 2,
+      "eps": 12
+    },
+    {
+      "name": "Sky Wizards Academy",
+      "status": "watched",
+      "started": "2018-12-06 03:29:36-08",
+      "completed": "2019-09-22 17:49:56-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Black Bullet",
+      "status": "watched",
+      "started": "2019-01-30 18:04:05-08",
+      "completed": "2019-02-05 13:09:03-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Rascal Does Not Dream of Bunny Girl Senpai",
+      "status": "stalled",
+      "started": "2019-12-10 17:06:51-08",
+      "completed": null,
+      "rating": 3.5,
+      "times": 1,
+      "eps": 10
+    },
+    {
+      "name": "Sword Art Online",
+      "status": "watched",
+      "started": "2019-01-30 18:06:24-08",
+      "completed": "2019-09-22 17:50:16-07",
+      "rating": 1,
+      "times": 1,
+      "eps": 25
+    },
+    {
+      "name": "Overlord",
+      "status": "watched",
+      "started": "2019-01-02 15:21:20-08",
+      "completed": "2019-01-09 13:42:22-08",
+      "rating": 3.5,
+      "times": 10,
+      "eps": 13
+    },
+    {
+      "name": "Death March to the Parallel World Rhapsody",
+      "status": "watched",
+      "started": "2018-12-12 06:54:12-08",
+      "completed": "2018-12-17 06:54:22-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Blade Dance of the Elementalers",
+      "status": "dropped",
+      "started": "2019-04-27 05:00:13-07",
+      "completed": "2019-09-22 17:45:31-07",
+      "rating": 3,
+      "times": 0,
+      "eps": 6
+    },
+    {
+      "name": "Ikkitousen",
+      "status": "dropped",
+      "started": null,
+      "completed": "2018-12-12 07:15:56-08",
+      "rating": 3,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Absolute Duo",
+      "status": "watched",
+      "started": "2018-12-29 03:19:24-08",
+      "completed": "2019-01-02 15:19:59-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Good Luck Girl!",
+      "status": "watched",
+      "started": "2019-04-27 05:00:54-07",
+      "completed": "2019-06-27 13:28:21-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Love Hina",
+      "status": "stalled",
+      "started": "2018-12-15 03:23:02-08",
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 2
+    },
+    {
+      "name": "Maken-ki! Two",
+      "status": "watched",
+      "started": "2018-12-15 03:23:34-08",
+      "completed": "2018-12-15 03:23:34-08",
+      "rating": 3.5,
+      "times": 2,
+      "eps": 10
+    },
+    {
+      "name": "GATE",
+      "status": "watched",
+      "started": "2018-12-15 03:25:59-08",
+      "completed": "2018-12-15 03:25:59-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "GATE (2016)",
+      "status": "watched",
+      "started": "2018-12-15 03:26:16-08",
+      "completed": "2018-12-15 06:57:22-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Bloom Into You",
+      "status": "won't watch",
+      "started": null,
+      "completed": "2018-12-15 06:06:04-08",
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Problem Children Are Coming From Another World, Aren't They?",
+      "status": "watched",
+      "started": "2018-12-18 14:20:37-08",
+      "completed": "2018-12-18 14:20:37-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 10
+    },
+    {
+      "name": "Drifters",
+      "status": "watched",
+      "started": "2018-12-20 09:39:42-08",
+      "completed": "2018-12-20 09:39:42-08",
+      "rating": 3.5,
+      "times": 2,
+      "eps": 12
+    },
+    {
+      "name": "Guilty Crown",
+      "status": "watched",
+      "started": "2018-12-25 11:31:31-08",
+      "completed": "2018-12-25 11:31:31-08",
+      "rating": 5,
+      "times": 1,
+      "eps": 22
+    },
+    {
+      "name": "The Familiar of Zero",
+      "status": "watched",
+      "started": "2018-12-20 12:33:40-08",
+      "completed": "2018-12-21 16:09:08-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Re:ZERO: Starting Life in Another World - Memory Snow",
+      "status": "watched",
+      "started": "2018-12-21 16:37:38-08",
+      "completed": "2018-12-21 16:37:38-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Tenjho Tenge",
+      "status": "stalled",
+      "started": "2018-12-21 16:42:12-08",
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 7
+    },
+    {
+      "name": "Outbreak Company",
+      "status": "watched",
+      "started": "2018-12-21 16:43:17-08",
+      "completed": "2019-12-07 19:52:50-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "PSYCHO-PASS",
+      "status": "stalled",
+      "started": "2018-12-21 16:43:39-08",
+      "completed": null,
+      "rating": 2.5,
+      "times": 0,
+      "eps": 7
+    },
+    {
+      "name": "Lord Marksman and Vanadis",
+      "status": "watched",
+      "started": "2018-12-26 15:44:23-08",
+      "completed": "2018-12-26 15:44:23-08",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Spirited Away",
+      "status": "watched",
+      "started": "2018-12-26 15:55:30-08",
+      "completed": "2018-12-26 15:55:30-08",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Code Geass: Lelouch of the Rebellion",
+      "status": "stalled",
+      "started": "2019-02-05 13:43:39-08",
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 17
+    },
+    {
+      "name": "Ultimate Otaku Teacher",
+      "status": "dropped",
+      "started": "2018-12-29 03:25:38-08",
+      "completed": "2020-09-14 17:53:32-07",
+      "rating": 3,
+      "times": 0,
+      "eps": 12
+    },
+    {
+      "name": "Aria the Scarlet Ammo",
+      "status": "watched",
+      "started": "2018-12-29 03:26:47-08",
+      "completed": "2019-01-09 13:42:04-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "SSSS.Gridman",
+      "status": "stalled",
+      "started": "2019-04-27 05:01:21-07",
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Baka and Test - Summon the Beasts",
+      "status": "watched",
+      "started": "2018-12-30 15:58:55-08",
+      "completed": "2019-01-16 17:26:38-08",
+      "rating": 4,
+      "times": 2,
+      "eps": 13
+    },
+    {
+      "name": "Tokyo Ravens",
+      "status": "watched",
+      "started": "2019-01-02 15:23:06-08",
+      "completed": "2019-01-26 13:39:37-08",
+      "rating": 5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Log Horizon",
+      "status": "watched",
+      "started": "2019-01-02 15:26:39-08",
+      "completed": "2021-10-16 17:03:51-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 25
+    },
+    {
+      "name": "Charlotte",
+      "status": "watched",
+      "started": "2019-01-09 13:43:47-08",
+      "completed": "2019-01-16 17:27:03-08",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Overlord II",
+      "status": "watched",
+      "started": "2019-01-09 13:45:16-08",
+      "completed": "2019-01-09 13:45:18-08",
+      "rating": 4,
+      "times": 4,
+      "eps": 13
+    },
+    {
+      "name": "Kakegurui",
+      "status": "stalled",
+      "started": "2019-01-16 17:29:30-08",
+      "completed": null,
+      "rating": 2.5,
+      "times": 0,
+      "eps": 4
+    },
+    {
+      "name": "Alderamin on the Sky",
+      "status": "watched",
+      "started": "2019-01-22 09:37:23-08",
+      "completed": "2019-04-28 11:51:03-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Dragon Ball",
+      "status": "watched",
+      "started": "2019-01-22 09:45:49-08",
+      "completed": "2019-01-22 09:45:49-08",
+      "rating": 3.5,
+      "times": 3,
+      "eps": 153
+    },
+    {
+      "name": "Dragon Ball Z",
+      "status": "watched",
+      "started": "2019-01-22 09:46:29-08",
+      "completed": "2019-01-22 09:46:29-08",
+      "rating": 3.5,
+      "times": 3,
+      "eps": 291
+    },
+    {
+      "name": "Dragon Ball GT",
+      "status": "watched",
+      "started": "2019-01-22 09:47:36-08",
+      "completed": "2019-01-22 09:47:36-08",
+      "rating": 3.5,
+      "times": 2,
+      "eps": 64
+    },
+    {
+      "name": "Boogiepop and Others",
+      "status": "dropped",
+      "started": "2019-01-24 17:35:04-08",
+      "completed": "2020-10-19 15:19:47-07",
+      "rating": 4,
+      "times": 0,
+      "eps": 2
+    },
+    {
+      "name": "Food Wars! Shokugeki no Souma",
+      "status": "watched",
+      "started": "2019-01-26 13:41:03-08",
+      "completed": "2019-01-30 18:02:31-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "When Supernatural Battles Became Commonplace",
+      "status": "dropped",
+      "started": "2019-01-26 13:41:50-08",
+      "completed": "2020-06-06 22:07:05-07",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 7
+    },
+    {
+      "name": "Myriad Colors Phantom World",
+      "status": "dropped",
+      "started": "2019-01-26 13:42:16-08",
+      "completed": "2020-02-12 21:46:02-08",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 9
+    },
+    {
+      "name": "Real Girl",
+      "status": "stalled",
+      "started": "2019-01-26 13:43:52-08",
+      "completed": "2019-11-30 03:32:53-08",
+      "rating": 3,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Rokka: Braves of the Six Flowers",
+      "status": "stalled",
+      "started": "2019-01-26 13:45:00-08",
+      "completed": null,
+      "rating": 2.5,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Chrome Shelled Regios",
+      "status": "watched",
+      "started": "2019-01-27 12:20:37-08",
+      "completed": "2019-01-27 12:20:37-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Arifureta: From Commonplace to World's Strongest",
+      "status": "watched",
+      "started": "2019-09-08 16:52:52-07",
+      "completed": "2019-10-22 16:53:15-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Btooom!",
+      "status": "watched",
+      "started": "2019-01-31 17:49:36-08",
+      "completed": "2019-02-05 13:09:51-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Endro~!",
+      "status": "dropped",
+      "started": "2019-02-05 13:13:22-08",
+      "completed": "2019-09-22 17:47:31-07",
+      "rating": 2,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Magical Girl Spec-Ops Asuka",
+      "status": "dropped",
+      "started": "2019-02-05 13:13:49-08",
+      "completed": "2019-09-22 17:48:52-07",
+      "rating": 3.5,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Toradora!",
+      "status": "watched",
+      "started": "2019-02-05 13:15:21-08",
+      "completed": "2019-11-30 03:33:30-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 25
+    },
+    {
+      "name": "Durarara!!",
+      "status": "watched",
+      "started": "2019-02-05 13:45:44-08",
+      "completed": "2019-11-30 03:29:49-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "The Quintessential Quintuplets",
+      "status": "watched",
+      "started": "2019-02-08 10:42:19-08",
+      "completed": "2019-09-22 17:50:39-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Mob Psycho 100 II",
+      "status": "watched",
+      "started": "2019-06-10 02:31:53-07",
+      "completed": "2019-09-22 17:48:45-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "The Promised Neverland",
+      "status": "stalled",
+      "started": "2019-09-22 17:53:59-07",
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "The Rising of the Shield Hero",
+      "status": "watched",
+      "started": "2019-06-10 02:25:52-07",
+      "completed": "2019-09-22 17:50:52-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 25
+    },
+    {
+      "name": "Naruto Shippuden",
+      "status": "dropped",
+      "started": "2019-02-08 10:44:22-08",
+      "completed": "2020-06-06 22:05:28-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 350
+    },
+    {
+      "name": "Blue Exorcist",
+      "status": "watched",
+      "started": "2019-02-11 11:52:47-08",
+      "completed": "2019-02-14 10:28:17-08",
+      "rating": 4,
+      "times": 2,
+      "eps": 25
+    },
+    {
+      "name": "Haganai: I Don't Have Many Friends",
+      "status": "watched",
+      "started": "2019-02-11 12:25:05-08",
+      "completed": "2019-02-11 12:25:05-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Kaze no Stigma",
+      "status": "stalled",
+      "started": "2019-02-11 12:25:33-08",
+      "completed": "2019-09-22 17:48:05-07",
+      "rating": 3.5,
+      "times": 0,
+      "eps": 13
+    },
+    {
+      "name": "Black Lagoon: The Second Barrage",
+      "status": "dropped",
+      "started": "2019-04-27 05:00:38-07",
+      "completed": "2019-09-22 17:46:01-07",
+      "rating": 3,
+      "times": 0,
+      "eps": 2
+    },
+    {
+      "name": "Clannad",
+      "status": "dropped",
+      "started": "2019-02-25 11:43:22-08",
+      "completed": "2019-11-30 03:29:05-08",
+      "rating": 3,
+      "times": 0,
+      "eps": 5
+    },
+    {
+      "name": "Ajin: Demi-Human",
+      "status": "watched",
+      "started": "2019-02-27 11:48:19-08",
+      "completed": "2019-06-27 13:27:10-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "The Ambition of Oda Nobuna",
+      "status": "watched",
+      "started": "2019-02-27 11:49:36-08",
+      "completed": "2019-09-22 17:50:32-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Accel World",
+      "status": "watched",
+      "started": "2019-03-10 04:45:31-07",
+      "completed": "2019-12-07 19:59:55-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Akame ga Kill!",
+      "status": "watched",
+      "started": "2019-03-10 04:45:56-07",
+      "completed": "2019-03-10 04:46:13-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Majikoi: Oh! Samurai Girls!",
+      "status": "stalled",
+      "started": "2020-10-23 04:32:09-07",
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 8
+    },
+    {
+      "name": "Haiyore! Nyaruko-san",
+      "status": "dropped",
+      "started": "2019-04-07 10:52:35-07",
+      "completed": "2021-11-23 20:22:54-08",
+      "rating": 2.5,
+      "times": 1,
+      "eps": 0
+    },
+    {
+      "name": "Full Metal Panic? Fumoffu",
+      "status": "dropped",
+      "started": "2019-04-08 19:42:53-07",
+      "completed": "2019-11-30 03:30:26-08",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 6
+    },
+    {
+      "name": "Shining Hearts",
+      "status": "watched",
+      "started": "2019-04-09 17:46:35-07",
+      "completed": "2019-04-09 17:46:35-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Nyan Koi!",
+      "status": "watched",
+      "started": "2019-04-27 05:01:38-07",
+      "completed": "2019-04-27 05:01:38-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Love Tyrant",
+      "status": "watched",
+      "started": "2019-04-09 18:50:23-07",
+      "completed": "2019-04-09 18:50:23-07",
+      "rating": 3.5,
+      "times": 2,
+      "eps": 12
+    },
+    {
+      "name": "A Bridge to the Starry Skies",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Shomin Sample",
+      "status": "watched",
+      "started": "2019-04-27 05:05:09-07",
+      "completed": "2019-04-27 05:05:11-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Unbreakable Machine-Doll",
+      "status": "watched",
+      "started": "2019-04-27 05:05:49-07",
+      "completed": "2019-09-22 17:51:24-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "The Seven Deadly Sins: Revival of the Commandments",
+      "status": "watched",
+      "started": "2019-04-27 05:06:41-07",
+      "completed": "2019-06-10 02:47:22-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Seraph of the End",
+      "status": "watched",
+      "started": "2019-04-27 05:06:51-07",
+      "completed": "2019-06-10 02:33:35-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Lord of Vermilion: The Crimson King",
+      "status": "watched",
+      "started": "2019-04-27 05:07:46-07",
+      "completed": "2019-11-30 03:32:15-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Kabaneri of the Iron Fortress",
+      "status": "watched",
+      "started": "2019-04-27 05:08:44-07",
+      "completed": "2019-04-27 05:08:44-07",
+      "rating": 5,
+      "times": 2,
+      "eps": 12
+    },
+    {
+      "name": "Kabaneri of the Iron Fortress Movie: The Battle of Unato",
+      "status": "watched",
+      "started": "2019-12-02 19:14:37-08",
+      "completed": "2019-12-02 19:14:39-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "God Eater",
+      "status": "watched",
+      "started": "2019-04-27 05:19:50-07",
+      "completed": "2019-04-27 05:19:50-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "A Certain Magical Index",
+      "status": "watched",
+      "started": "2019-04-27 05:21:22-07",
+      "completed": "2019-11-30 03:28:21-08",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Air Gear",
+      "status": "watched",
+      "started": "2019-04-27 05:22:11-07",
+      "completed": "2019-04-27 05:22:11-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 25
+    },
+    {
+      "name": "History's Strongest Disciple Kenichi",
+      "status": "watched",
+      "started": "2019-04-27 05:22:37-07",
+      "completed": "2019-04-27 05:22:37-07",
+      "rating": 5,
+      "times": 2,
+      "eps": 50
+    },
+    {
+      "name": "Gangsta.",
+      "status": "watched",
+      "started": "2019-04-27 05:25:17-07",
+      "completed": "2019-04-27 05:25:17-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Kill La Kill",
+      "status": "watched",
+      "started": "2019-04-27 05:26:32-07",
+      "completed": "2019-11-30 03:31:45-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Knight's & Magic",
+      "status": "watched",
+      "started": "2019-04-27 05:27:08-07",
+      "completed": "2019-11-30 03:31:49-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Shuffle!",
+      "status": "dropped",
+      "started": "2019-04-27 05:31:05-07",
+      "completed": "2019-11-30 03:32:59-08",
+      "rating": 3.5,
+      "times": 0,
+      "eps": 15
+    },
+    {
+      "name": "Maid-sama!",
+      "status": "dropped",
+      "started": "2019-04-27 05:33:32-07",
+      "completed": "2019-09-22 17:49:01-07",
+      "rating": 3.5,
+      "times": 0,
+      "eps": 12
+    },
+    {
+      "name": "Devilman: Crybaby",
+      "status": "dropped",
+      "started": "2019-04-27 05:35:20-07",
+      "completed": "2019-11-30 03:23:33-08",
+      "rating": 4,
+      "times": 0,
+      "eps": 8
+    },
+    {
+      "name": "Steins;Gate",
+      "status": "stalled",
+      "started": "2019-04-27 05:45:04-07",
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 6
+    },
+    {
+      "name": "Fruits Basket 1st Season",
+      "status": "stalled",
+      "started": "2019-04-28 12:06:55-07",
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 4
+    },
+    {
+      "name": "Mayo Chiki!",
+      "status": "watched",
+      "started": "2019-05-26 12:32:16-07",
+      "completed": "2019-05-26 12:32:16-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Death Parade",
+      "status": "watched",
+      "started": "2019-06-03 16:48:06-07",
+      "completed": "2019-06-10 02:10:30-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Prison School",
+      "status": "watched",
+      "started": "2019-06-10 02:08:25-07",
+      "completed": "2019-06-10 02:08:25-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Akashic Records of Bastard Magic Instructor",
+      "status": "watched",
+      "started": "2019-06-10 02:14:42-07",
+      "completed": "2019-06-10 02:14:42-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Blood Blockade Battlefront",
+      "status": "watched",
+      "started": "2019-06-10 02:15:38-07",
+      "completed": "2019-06-10 02:15:38-07",
+      "rating": 2.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Buso Renkin",
+      "status": "stalled",
+      "started": "2019-06-10 02:16:58-07",
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Baki the Grappler",
+      "status": "watched",
+      "started": "2019-06-10 02:17:53-07",
+      "completed": "2019-06-10 02:17:53-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Chaika: The Coffin Princess",
+      "status": "watched",
+      "started": "2019-06-10 02:18:26-07",
+      "completed": "2019-06-10 02:18:26-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Classroom of the Elite",
+      "status": "watched",
+      "started": "2019-06-10 02:19:20-07",
+      "completed": "2019-06-10 02:19:20-07",
+      "rating": 4.5,
+      "times": 2,
+      "eps": 12
+    },
+    {
+      "name": "Code:Breaker",
+      "status": "stalled",
+      "started": "2019-06-10 02:20:31-07",
+      "completed": null,
+      "rating": 2.5,
+      "times": 0,
+      "eps": 9
+    },
+    {
+      "name": "Devils' Line",
+      "status": "watched",
+      "started": "2019-06-10 02:23:33-07",
+      "completed": "2019-11-30 03:29:28-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Devil Survivor 2 The Animation",
+      "status": "dropped",
+      "started": "2019-06-10 02:24:37-07",
+      "completed": "2020-06-06 22:03:44-07",
+      "rating": 3,
+      "times": 0,
+      "eps": 9
+    },
+    {
+      "name": "Dragonar Academy",
+      "status": "watched",
+      "started": "2019-06-10 02:25:17-07",
+      "completed": "2019-06-10 02:25:27-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Girls Bravo",
+      "status": "dropped",
+      "started": "2019-06-10 02:27:50-07",
+      "completed": "2019-11-30 03:30:29-08",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 4
+    },
+    {
+      "name": "Kiznaiver",
+      "status": "watched",
+      "started": "2019-06-10 02:29:53-07",
+      "completed": "2019-06-10 02:29:53-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Kuromukuro",
+      "status": "dropped",
+      "started": "2019-06-10 02:30:39-07",
+      "completed": "2019-11-30 03:32:12-08",
+      "rating": 3,
+      "times": 0,
+      "eps": 12
+    },
+    {
+      "name": "Servamp",
+      "status": "watched",
+      "started": "2019-06-10 02:33:27-07",
+      "completed": "2019-06-10 02:33:27-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Seraph of the End: Battle in Nagoya",
+      "status": "watched",
+      "started": "2019-06-10 02:34:18-07",
+      "completed": "2019-06-10 02:34:18-07",
+      "rating": 4.5,
+      "times": 2,
+      "eps": 12
+    },
+    {
+      "name": "Sword Gai: The Animation",
+      "status": "watched",
+      "started": "2019-06-10 02:35:58-07",
+      "completed": "2019-06-10 02:35:58-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Sword Gai: The Animation Part II",
+      "status": "watched",
+      "started": "2019-06-10 02:36:22-07",
+      "completed": "2019-11-30 03:33:12-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Taboo-Tattoo",
+      "status": "watched",
+      "started": "2019-06-10 02:37:09-07",
+      "completed": "2019-06-10 02:37:09-07",
+      "rating": 0.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Magical Warfare",
+      "status": "watched",
+      "started": "2019-06-10 02:37:31-07",
+      "completed": "2020-02-12 21:41:38-08",
+      "rating": 0.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Handa-kun",
+      "status": "watched",
+      "started": "2019-06-10 02:38:57-07",
+      "completed": "2019-06-10 02:38:57-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "The Disastrous Life of Saiki K.",
+      "status": "watched",
+      "started": "2019-06-10 02:39:55-07",
+      "completed": "2019-06-10 02:39:55-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 120
+    },
+    {
+      "name": "The Disastrous Life of Saiki K. 2nd Season",
+      "status": "dropped",
+      "started": null,
+      "completed": "2019-12-02 19:15:57-08",
+      "rating": 3,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Blue Exorcist: Kyoto Saga",
+      "status": "watched",
+      "started": "2019-06-10 02:50:12-07",
+      "completed": "2019-06-10 02:50:12-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Ushio and Tora TV",
+      "status": "stalled",
+      "started": "2019-06-10 02:51:43-07",
+      "completed": null,
+      "rating": 4.5,
+      "times": 0,
+      "eps": 15
+    },
+    {
+      "name": "WorldEnd: What do you do at the end of the world? Are you busy? Will you save us?",
+      "status": "watched",
+      "started": "2019-06-10 02:52:18-07",
+      "completed": "2019-06-10 02:52:18-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "A Sister's All You Need",
+      "status": "watched",
+      "started": "2019-06-10 02:57:02-07",
+      "completed": "2019-09-22 17:44:22-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "The Legend of the Legendary Heroes",
+      "status": "watched",
+      "started": "2019-06-27 13:23:40-07",
+      "completed": "2019-09-22 17:50:46-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Bakemonogatari",
+      "status": "watched",
+      "started": "2019-09-22 17:52:14-07",
+      "completed": "2019-10-22 16:53:33-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 15
+    },
+    {
+      "name": "Astra Lost in Space",
+      "status": "dropped",
+      "started": "2019-09-22 17:54:29-07",
+      "completed": "2020-06-06 22:03:23-07",
+      "rating": 3,
+      "times": 0,
+      "eps": 5
+    },
+    {
+      "name": "Are You Lost?",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "BEM",
+      "status": "dropped",
+      "started": "2019-09-22 17:54:52-07",
+      "completed": "2020-10-19 15:20:04-07",
+      "rating": 3.5,
+      "times": 0,
+      "eps": 6
+    },
+    {
+      "name": "Cop Craft",
+      "status": "dropped",
+      "started": null,
+      "completed": "2019-09-22 17:55:19-07",
+      "rating": 3,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Demon Lord, Retry!",
+      "status": "watched",
+      "started": "2019-09-22 17:55:35-07",
+      "completed": "2019-11-27 18:32:33-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Fire Force",
+      "status": "watched",
+      "started": "2019-09-22 17:56:21-07",
+      "completed": "2019-12-28 14:07:17-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Hensuki: Are you willing to fall in love with a pervert, as long as she\u2019s a cutie?",
+      "status": "watched",
+      "started": "2019-09-22 17:56:39-07",
+      "completed": "2019-11-27 18:33:19-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Isekai Cheat Magician",
+      "status": "watched",
+      "started": "2019-09-22 17:56:55-07",
+      "completed": "2019-11-30 03:31:08-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "How Heavy Are the Dumbbells You Lift?",
+      "status": "stalled",
+      "started": "2019-09-22 17:57:09-07",
+      "completed": null,
+      "rating": 2.5,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Kochoki",
+      "status": "dropped",
+      "started": null,
+      "completed": "2019-09-22 17:57:42-07",
+      "rating": 3,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "The Ones Within",
+      "status": "watched",
+      "started": "2019-09-22 17:58:11-07",
+      "completed": "2019-11-27 18:34:10-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Ultramarine Magmell",
+      "status": "watched",
+      "started": "2019-09-22 18:01:31-07",
+      "completed": "2019-12-17 06:50:13-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Fairy gone",
+      "status": "dropped",
+      "started": "2019-09-22 18:01:45-07",
+      "completed": "2020-06-06 22:03:59-07",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Isekai Quartet",
+      "status": "watched",
+      "started": "2019-09-22 18:01:55-07",
+      "completed": "2019-09-22 18:01:55-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "The Irregular at Magic High School",
+      "status": "watched",
+      "started": "2019-09-26 18:57:00-07",
+      "completed": "2019-09-26 18:57:00-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 26
+    },
+    {
+      "name": "The Sacred Blacksmith",
+      "status": "stalled",
+      "started": "2019-09-26 18:57:30-07",
+      "completed": null,
+      "rating": 2,
+      "times": 0,
+      "eps": 5
+    },
+    {
+      "name": "K",
+      "status": "dropped",
+      "started": "2019-09-26 18:57:49-07",
+      "completed": "2020-06-06 22:04:55-07",
+      "rating": 3,
+      "times": 0,
+      "eps": 5
+    },
+    {
+      "name": "Heaven's Lost Property",
+      "status": "dropped",
+      "started": null,
+      "completed": "2019-09-26 18:58:01-07",
+      "rating": 1.5,
+      "times": 0,
+      "eps": 7
+    },
+    {
+      "name": "Ouran High School Host Club",
+      "status": "won't watch",
+      "started": null,
+      "completed": "2019-09-26 18:58:17-07",
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Bungo Stray Dogs",
+      "status": "watched",
+      "started": "2019-09-26 18:58:44-07",
+      "completed": "2019-09-26 18:58:44-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "K\u00e4mpfer",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Black Cat",
+      "status": "stalled",
+      "started": null,
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 9
+    },
+    {
+      "name": "Saga of Tanya the Evil",
+      "status": "watched",
+      "started": "2019-09-26 18:59:20-07",
+      "completed": "2019-09-26 18:59:20-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Black Butler",
+      "status": "stalled",
+      "started": null,
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 9
+    },
+    {
+      "name": "Hellsing Ultimate",
+      "status": "stalled",
+      "started": "2019-09-26 19:02:55-07",
+      "completed": null,
+      "rating": 4,
+      "times": 0,
+      "eps": 6
+    },
+    {
+      "name": "C: The Money of Soul and Possibility Control",
+      "status": "dropped",
+      "started": null,
+      "completed": "2019-09-26 19:03:12-07",
+      "rating": 2,
+      "times": 0,
+      "eps": 7
+    },
+    {
+      "name": "Case File n\u00ba221: Kabukicho",
+      "status": "dropped",
+      "started": "2019-12-02 19:14:16-08",
+      "completed": "2020-10-19 15:19:52-07",
+      "rating": 3,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Negima!",
+      "status": "stalled",
+      "started": "2019-10-26 10:08:09-07",
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 9
+    },
+    {
+      "name": "Hamatora",
+      "status": "watched",
+      "started": "2019-10-28 21:15:25-07",
+      "completed": "2019-10-28 21:15:25-07",
+      "rating": 3.5,
+      "times": 2,
+      "eps": 12
+    },
+    {
+      "name": "Samurai Harem: Asu no Yoichi",
+      "status": "watched",
+      "started": "2019-10-31 20:11:29-07",
+      "completed": "2019-10-31 20:11:29-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Chobits",
+      "status": "stalled",
+      "started": "2019-11-01 19:27:24-07",
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 7
+    },
+    {
+      "name": "My Teen Romantic Comedy SNAFU",
+      "status": "watched",
+      "started": "2019-11-01 19:30:00-07",
+      "completed": "2019-11-01 19:30:00-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Assassination Classroom 2nd Season",
+      "status": "watched",
+      "started": "2019-11-09 17:43:51-08",
+      "completed": "2019-11-09 17:43:51-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 25
+    },
+    {
+      "name": "Cautious Hero: The Hero Is Overpowered but Overly Cautious",
+      "status": "watched",
+      "started": "2019-11-09 17:46:56-08",
+      "completed": "2020-02-09 07:40:35-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "High School Prodigies Have It Easy Even in Another World!",
+      "status": "dropped",
+      "started": "2019-11-09 17:47:53-08",
+      "completed": "2020-01-14 17:50:33-08",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 5
+    },
+    {
+      "name": "Arifureta: From Commonplace to World's Strongest - Omnibus: The Great Orcus Labyrinth",
+      "status": "watched",
+      "started": "2019-11-09 17:48:44-08",
+      "completed": "2019-11-09 17:48:44-08",
+      "rating": 1,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "My Bride is a Mermaid",
+      "status": "watched",
+      "started": "2019-11-27 18:36:09-08",
+      "completed": "2019-11-27 18:36:09-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 26
+    },
+    {
+      "name": "Masamune-kun's Revenge",
+      "status": "watched",
+      "started": "2019-11-27 18:36:20-08",
+      "completed": "2019-11-27 18:36:20-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "If It's for My Daughter, I'd Even Defeat a Demon Lord",
+      "status": "stalled",
+      "started": "2019-11-30 03:09:14-08",
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 6
+    },
+    {
+      "name": "Danganronpa: The Animation",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Beelzebub",
+      "status": "stalled",
+      "started": "2019-11-30 03:36:19-08",
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 12
+    },
+    {
+      "name": "The King's Avatar",
+      "status": "watched",
+      "started": "2019-11-30 03:38:40-08",
+      "completed": "2019-11-30 03:38:40-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "World Trigger",
+      "status": "stalled",
+      "started": "2019-11-30 03:41:27-08",
+      "completed": null,
+      "rating": 4,
+      "times": 0,
+      "eps": 59
+    },
+    {
+      "name": "Nanbaka",
+      "status": "watched",
+      "started": "2019-11-30 03:42:33-08",
+      "completed": "2019-11-30 03:42:33-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Witch Craft Works",
+      "status": "watched",
+      "started": "2019-11-30 03:43:42-08",
+      "completed": "2019-11-30 03:43:42-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Ahiru no Sora",
+      "status": "stalled",
+      "started": "2019-11-30 03:44:35-08",
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 13
+    },
+    {
+      "name": "Kemono Michi: Rise Up",
+      "status": "watched",
+      "started": "2019-11-30 03:45:34-08",
+      "completed": "2020-01-01 15:42:01-08",
+      "rating": 2.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Assassins Pride",
+      "status": "watched",
+      "started": "2019-11-30 03:46:15-08",
+      "completed": "2020-02-09 07:40:18-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "The Qwaser Of Stigmata",
+      "status": "dropped",
+      "started": null,
+      "completed": "2019-12-02 19:16:50-08",
+      "rating": 1.5,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Hinomaru Sumo",
+      "status": "watched",
+      "started": "2019-12-06 04:47:01-08",
+      "completed": "2019-12-06 04:47:01-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Vinland Saga",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "The Seven Deadly Sins: Imperial Wrath of the Gods",
+      "status": "watched",
+      "started": "2020-08-13 10:41:14-07",
+      "completed": "2020-08-14 10:59:44-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Ajin: Demi-Human 2nd Season",
+      "status": "stalled",
+      "started": "2019-12-07 20:01:15-08",
+      "completed": "2020-01-01 15:41:20-08",
+      "rating": 3,
+      "times": 0,
+      "eps": 7
+    },
+    {
+      "name": "Sword Art Online II",
+      "status": "watched",
+      "started": "2019-12-07 21:43:28-08",
+      "completed": "2019-12-07 21:43:28-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Baka and Test - Summon the Beasts 2",
+      "status": "watched",
+      "started": "2019-12-07 21:44:09-08",
+      "completed": "2019-12-07 21:44:09-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Guilty Crown: Lost Christmas",
+      "status": "watched",
+      "started": "2019-12-07 21:44:33-08",
+      "completed": "2019-12-07 21:44:45-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Nisemonogatari",
+      "status": "watched",
+      "started": "2019-12-07 21:49:29-08",
+      "completed": "2019-12-07 21:49:29-08",
+      "rating": 5,
+      "times": 1,
+      "eps": 11
+    },
+    {
+      "name": "Freezing Vibration",
+      "status": "watched",
+      "started": "2019-12-09 02:50:08-08",
+      "completed": "2019-12-09 02:50:08-08",
+      "rating": 1,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Monogatari Series: Second Season",
+      "status": "stalled",
+      "started": "2019-12-09 02:51:52-08",
+      "completed": null,
+      "rating": 4.5,
+      "times": 1,
+      "eps": 17
+    },
+    {
+      "name": "Oreimo",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Chain Chronicle: The Light of Haecceitas",
+      "status": "watched",
+      "started": "2019-12-09 03:04:31-08",
+      "completed": "2019-12-09 03:04:31-08",
+      "rating": 2.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Record of Grancrest War",
+      "status": "dropped",
+      "started": "2019-12-09 03:05:58-08",
+      "completed": "2020-02-09 07:43:23-08",
+      "rating": 3,
+      "times": 0,
+      "eps": 11
+    },
+    {
+      "name": "MM!",
+      "status": "watched",
+      "started": "2019-12-11 18:01:52-08",
+      "completed": "2019-12-11 18:01:52-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Blast of Tempest",
+      "status": "stalled",
+      "started": "2020-07-28 16:49:08-07",
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 4
+    },
+    {
+      "name": "Nisekoi",
+      "status": "stalled",
+      "started": "2019-12-11 18:04:28-08",
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 9
+    },
+    {
+      "name": "Strike the Blood",
+      "status": "watched",
+      "started": "2020-03-01 18:16:41-08",
+      "completed": "2020-03-03 17:26:23-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Kekkaishi",
+      "status": "dropped",
+      "started": "2019-12-11 18:05:01-08",
+      "completed": "2020-06-06 22:05:03-07",
+      "rating": 3,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Eden of the East",
+      "status": "dropped",
+      "started": null,
+      "completed": "2020-06-06 22:03:55-07",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 2
+    },
+    {
+      "name": "Shiki",
+      "status": "stalled",
+      "started": null,
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Terror in Resonance",
+      "status": "stalled",
+      "started": null,
+      "completed": null,
+      "rating": 4,
+      "times": 0,
+      "eps": 9
+    },
+    {
+      "name": "Magikano",
+      "status": "dropped",
+      "started": null,
+      "completed": "2019-12-11 18:11:00-08",
+      "rating": 1.5,
+      "times": 0,
+      "eps": 2
+    },
+    {
+      "name": "Katanagatari",
+      "status": "stalled",
+      "started": "2019-12-11 18:12:33-08",
+      "completed": null,
+      "rating": 3.5,
+      "times": 1,
+      "eps": 4
+    },
+    {
+      "name": "Problem Children Are Coming From Another World, Aren't They? OVA",
+      "status": "watched",
+      "started": "2019-12-11 18:14:54-08",
+      "completed": "2019-12-11 18:14:54-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Haven't You Heard? I'm Sakamoto",
+      "status": "watched",
+      "started": "2019-12-11 18:15:21-08",
+      "completed": "2019-12-11 18:15:21-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Needless",
+      "status": "dropped",
+      "started": null,
+      "completed": "2020-06-06 22:05:13-07",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "I\u2019ve Been Killing Slimes for 300 Years and Maxed Out My Level",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "The Misfit of Demon King Academy",
+      "status": "watched",
+      "started": "2020-07-09 09:35:18-07",
+      "completed": "2020-09-26 11:17:55-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Garo The Animation",
+      "status": "watched",
+      "started": "2019-12-12 16:03:26-08",
+      "completed": "2019-12-12 16:03:26-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "To the Abandoned Sacred Beasts",
+      "status": "stalled",
+      "started": null,
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 4
+    },
+    {
+      "name": "Garo: Crimson Moon",
+      "status": "watched",
+      "started": "2019-12-12 16:04:38-08",
+      "completed": "2019-12-12 16:04:38-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 23
+    },
+    {
+      "name": "Dance in the Vampire Bund",
+      "status": "stalled",
+      "started": null,
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 6
+    },
+    {
+      "name": "Karin",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "ID:INVADED",
+      "status": "stalled",
+      "started": "2019-12-23 12:08:43-08",
+      "completed": null,
+      "rating": 4,
+      "times": 0,
+      "eps": 7
+    },
+    {
+      "name": "The Severing Crime Edge",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "BOFURI: I Don\u2019t Want to Get Hurt, so I\u2019ll Max Out My Defense.",
+      "status": "stalled",
+      "started": null,
+      "completed": "2020-01-09 00:00:42-08",
+      "rating": 0.5,
+      "times": 0,
+      "eps": 6
+    },
+    {
+      "name": "Interspecies Reviewers",
+      "status": "dropped",
+      "started": "2020-01-12 10:59:50-08",
+      "completed": "2020-02-09 07:42:33-08",
+      "rating": 2,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Future Diary",
+      "status": "dropped",
+      "started": "2020-01-20 22:26:11-08",
+      "completed": "2020-01-20 22:26:14-08",
+      "rating": 0.5,
+      "times": 0,
+      "eps": 9
+    },
+    {
+      "name": "We Never Learn!",
+      "status": "watched",
+      "started": "2020-02-03 13:00:29-08",
+      "completed": "2020-02-03 13:00:29-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Conception",
+      "status": "dropped",
+      "started": null,
+      "completed": "2020-02-03 13:03:53-08",
+      "rating": 0.5,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Isekai Quartet 2",
+      "status": "stalled",
+      "started": "2020-02-03 13:23:35-08",
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 4
+    },
+    {
+      "name": "SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn\u2019t Exist",
+      "status": "watched",
+      "started": "2020-02-03 13:26:38-08",
+      "completed": "2020-02-03 13:26:38-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "The Daily Life of the Immortal King",
+      "status": "watched",
+      "started": "2020-02-05 21:47:03-08",
+      "completed": "2020-06-10 00:12:47-07",
+      "rating": 2.5,
+      "times": 1,
+      "eps": 15
+    },
+    {
+      "name": "Aldnoah.Zero",
+      "status": "watched",
+      "started": "2020-02-07 04:41:38-08",
+      "completed": "2020-02-07 04:41:38-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Dr. Stone",
+      "status": "watched",
+      "started": "2020-02-09 07:40:25-08",
+      "completed": "2020-02-09 07:40:25-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "In/Spectre",
+      "status": "dropped",
+      "started": "2020-02-09 07:45:58-08",
+      "completed": "2020-08-03 19:19:48-07",
+      "rating": 2,
+      "times": 0,
+      "eps": 9
+    },
+    {
+      "name": "Darwin's Game",
+      "status": "watched",
+      "started": "2020-02-09 07:46:16-08",
+      "completed": "2020-04-10 02:18:24-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 11
+    },
+    {
+      "name": "Toilet-Bound Hanako-kun",
+      "status": "stalled",
+      "started": "2020-02-09 07:46:58-08",
+      "completed": null,
+      "rating": 4.5,
+      "times": 0,
+      "eps": 8
+    },
+    {
+      "name": "Plunderer",
+      "status": "dropped",
+      "started": "2020-02-09 07:47:48-08",
+      "completed": "2020-06-06 22:02:30-07",
+      "rating": 2,
+      "times": 0,
+      "eps": 10
+    },
+    {
+      "name": "Somali and the Forest Spirit",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Infinite Dendrogram",
+      "status": "watched",
+      "started": "2020-02-09 07:48:10-08",
+      "completed": "2020-05-06 23:52:53-07",
+      "rating": 2.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Welcome to Demon School, Iruma-kun",
+      "status": "watched",
+      "started": "2020-02-09 07:48:22-08",
+      "completed": "2020-03-16 05:41:46-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 23
+    },
+    {
+      "name": "Seton Academy: Join the Pack!",
+      "status": "stalled",
+      "started": "2020-02-09 07:48:36-08",
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 5
+    },
+    {
+      "name": "Hatena Illusion",
+      "status": "dropped",
+      "started": null,
+      "completed": "2020-02-09 07:50:13-08",
+      "rating": 0.5,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Dog & Scissors",
+      "status": "watched",
+      "started": "2020-02-09 07:52:32-08",
+      "completed": "2020-02-09 07:52:32-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "07-Ghost",
+      "status": "stalled",
+      "started": "2020-02-09 07:54:05-08",
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 4
+    },
+    {
+      "name": "Tanaka-kun is Always Listless",
+      "status": "watched",
+      "started": "2020-02-12 21:13:38-08",
+      "completed": "2020-02-12 21:13:38-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Amagi Brilliant Park",
+      "status": "watched",
+      "started": "2021-11-16 16:46:53-08",
+      "completed": "2021-11-16 16:46:53-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "I Couldn't Become a Hero, So I Reluctantly Decided to Get a Job.",
+      "status": "stalled",
+      "started": "2020-02-12 21:45:46-08",
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "That Time I Got Reincarnated as a Slime: Veldora's Journal",
+      "status": "watched",
+      "started": "2020-02-12 21:46:43-08",
+      "completed": "2020-02-12 21:46:43-08",
+      "rating": 2,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Gamers!",
+      "status": "watched",
+      "started": "2020-02-16 07:37:12-08",
+      "completed": "2020-02-16 07:37:12-08",
+      "rating": 2.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Yao Jing Zhong Zhi Shou Ce",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Full-Time Magister",
+      "status": "watched",
+      "started": "2020-02-22 14:04:11-08",
+      "completed": "2020-02-22 14:04:11-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Full-Time Magister II",
+      "status": "watched",
+      "started": "2020-02-22 14:04:29-08",
+      "completed": "2020-02-22 14:04:29-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Full-Time Magister III",
+      "status": "watched",
+      "started": "2020-02-22 14:04:44-08",
+      "completed": "2020-02-22 14:04:44-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Full-Time Magister IV",
+      "status": "watched",
+      "started": "2020-06-20 18:32:33-07",
+      "completed": "2020-08-28 03:02:17-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Food Wars! The Fourth Plate",
+      "status": "watched",
+      "started": "2021-10-03 03:09:16-07",
+      "completed": "2021-10-03 03:09:16-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Food Wars! The Fifth Plate",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "DARLING in the FRANXX",
+      "status": "watched",
+      "started": "2020-03-01 09:01:55-08",
+      "completed": "2020-03-01 09:01:55-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "The Master of Ragnarok & Blesser of Einherjar",
+      "status": "dropped",
+      "started": null,
+      "completed": "2020-03-01 09:02:41-08",
+      "rating": 2,
+      "times": 0,
+      "eps": 5
+    },
+    {
+      "name": "ReLIFE",
+      "status": "watched",
+      "started": "2020-03-01 09:05:31-08",
+      "completed": "2020-03-01 09:05:31-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Yamada-kun and the Seven Witches",
+      "status": "watched",
+      "started": "2020-03-01 09:05:53-08",
+      "completed": "2020-03-01 09:05:53-08",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "The Helpful Fox Senko-san",
+      "status": "stalled",
+      "started": null,
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 4
+    },
+    {
+      "name": "Yamada's First Time: B Gata H Kei",
+      "status": "watched",
+      "started": "2020-03-01 09:10:23-08",
+      "completed": "2020-03-01 09:10:23-08",
+      "rating": 2.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "And you thought there is never a girl online?",
+      "status": "dropped",
+      "started": null,
+      "completed": "2020-03-01 09:10:33-08",
+      "rating": 2,
+      "times": 0,
+      "eps": 7
+    },
+    {
+      "name": "My First Girlfriend is a Gal",
+      "status": "watched",
+      "started": "2020-03-01 09:11:23-08",
+      "completed": "2020-03-01 09:11:23-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 10
+    },
+    {
+      "name": "My Girlfriend is Shobitch",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Green Green",
+      "status": "watched",
+      "started": "2020-03-01 09:11:50-08",
+      "completed": "2020-03-01 09:11:50-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "The Pet Girl of Sakurasou",
+      "status": "stalled",
+      "started": "2020-07-08 14:10:25-07",
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 8
+    },
+    {
+      "name": "KonoSuba \u2013 God's blessing on this wonderful world! 2",
+      "status": "watched",
+      "started": "2020-03-03 19:48:07-08",
+      "completed": "2020-03-03 19:48:07-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 10
+    },
+    {
+      "name": "Seitokai Yakuindomo",
+      "status": "watched",
+      "started": "2020-03-03 19:50:46-08",
+      "completed": "2020-03-03 19:50:46-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Nura: Rise of the Youkai Clan",
+      "status": "watched",
+      "started": "2020-03-05 16:00:37-08",
+      "completed": "2020-03-05 16:00:37-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Qualidea Code",
+      "status": "watched",
+      "started": "2020-03-16 05:39:44-07",
+      "completed": "2020-03-16 05:39:44-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Monster Girl Doctor",
+      "status": "stalled",
+      "started": "2020-07-09 09:35:29-07",
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 2
+    },
+    {
+      "name": "Ex-Arm",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Rent-a-Girlfriend",
+      "status": "dropped",
+      "started": "2020-07-11 21:51:01-07",
+      "completed": "2020-08-03 19:18:24-07",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 2
+    },
+    {
+      "name": "The 8th Son? Are You Kidding Me?",
+      "status": "dropped",
+      "started": "2020-04-21 03:02:55-07",
+      "completed": "2020-06-10 00:12:59-07",
+      "rating": 0.5,
+      "times": 0,
+      "eps": 4
+    },
+    {
+      "name": "Overflow",
+      "status": "watched",
+      "started": "2020-03-30 02:51:11-07",
+      "completed": "2020-03-30 02:51:11-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 8
+    },
+    {
+      "name": "Garo: Vanishing Line",
+      "status": "watched",
+      "started": "2020-04-02 01:22:52-07",
+      "completed": "2020-04-02 01:22:52-07",
+      "rating": 2.5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Tower of God",
+      "status": "watched",
+      "started": "2020-04-02 01:23:17-07",
+      "completed": "2020-06-24 15:21:49-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "UQ Holder!",
+      "status": "watched",
+      "started": "2020-04-10 02:15:05-07",
+      "completed": "2020-04-10 02:15:05-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Nabari no Ou",
+      "status": "watched",
+      "started": "2020-04-10 02:15:38-07",
+      "completed": "2020-04-10 02:15:38-07",
+      "rating": 2.5,
+      "times": 1,
+      "eps": 26
+    },
+    {
+      "name": "Dream Eater Merry",
+      "status": "dropped",
+      "started": null,
+      "completed": "2020-06-06 22:03:49-07",
+      "rating": 3,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Sorcerous Stabber Orphen",
+      "status": "watched",
+      "started": "2020-04-10 02:19:44-07",
+      "completed": "2020-04-10 02:19:44-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Kamisama Kiss 2nd Season",
+      "status": "watched",
+      "started": "2020-04-11 08:21:17-07",
+      "completed": "2020-04-11 08:21:17-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Recovery of an MMO Junkie",
+      "status": "dropped",
+      "started": null,
+      "completed": "2020-04-11 08:24:07-07",
+      "rating": 3,
+      "times": 0,
+      "eps": 5
+    },
+    {
+      "name": "Nanbaka 2nd Season",
+      "status": "stalled",
+      "started": "2020-04-11 08:25:47-07",
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Boruto: Naruto Next Generations",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Xam'd: Lost Memories",
+      "status": "stalled",
+      "started": null,
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 12
+    },
+    {
+      "name": "Mob Psycho 100 II: The First Spirits and Such Company Trip - A Journey that Mends the Heart and Heals the Soul",
+      "status": "watched",
+      "started": "2020-04-13 12:34:36-07",
+      "completed": "2020-04-13 12:34:36-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "A.I.C.O. Incarnation",
+      "status": "dropped",
+      "started": null,
+      "completed": "2020-04-13 12:35:22-07",
+      "rating": 3,
+      "times": 0,
+      "eps": 4
+    },
+    {
+      "name": "Noragami Aragoto",
+      "status": "watched",
+      "started": "2020-04-13 12:42:34-07",
+      "completed": "2020-04-13 12:42:34-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Megalo Box",
+      "status": "stalled",
+      "started": "2020-04-13 12:46:42-07",
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 4
+    },
+    {
+      "name": "Ushio and Tora TV (2016)",
+      "status": "stalled",
+      "started": null,
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 9
+    },
+    {
+      "name": "Jormungand",
+      "status": "watched",
+      "started": "2020-04-13 12:47:47-07",
+      "completed": "2020-04-13 12:47:47-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Sword Art Online Movie: Ordinal Scale",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "K: Missing Kings",
+      "status": "dropped",
+      "started": null,
+      "completed": "2020-04-13 12:49:32-07",
+      "rating": 2,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "K: Return of Kings",
+      "status": "dropped",
+      "started": null,
+      "completed": "2020-04-13 12:49:51-07",
+      "rating": 2,
+      "times": 0,
+      "eps": 8
+    },
+    {
+      "name": "Gargantia on the Verdurous Planet",
+      "status": "stalled",
+      "started": null,
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 5
+    },
+    {
+      "name": "Fate/stay night",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Ben-To",
+      "status": "dropped",
+      "started": null,
+      "completed": "2020-04-13 12:52:27-07",
+      "rating": 3,
+      "times": 0,
+      "eps": 9
+    },
+    {
+      "name": "Berserk (2016)",
+      "status": "dropped",
+      "started": null,
+      "completed": "2020-04-13 12:55:12-07",
+      "rating": 3,
+      "times": 0,
+      "eps": 2
+    },
+    {
+      "name": "Tsugumomo",
+      "status": "watched",
+      "started": "2020-06-06 21:58:23-07",
+      "completed": "2020-06-06 21:58:23-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Double Decker! Doug & Kirill",
+      "status": "dropped",
+      "started": null,
+      "completed": "2020-04-13 13:00:00-07",
+      "rating": 3,
+      "times": 0,
+      "eps": 6
+    },
+    {
+      "name": "Akiba's Trip: The Animation",
+      "status": "stalled",
+      "started": null,
+      "completed": null,
+      "rating": 2.5,
+      "times": 0,
+      "eps": 4
+    },
+    {
+      "name": "La Storia Della Arcana Famiglia",
+      "status": "dropped",
+      "started": null,
+      "completed": "2020-06-06 22:05:09-07",
+      "rating": 3,
+      "times": 0,
+      "eps": 9
+    },
+    {
+      "name": "Great Teacher Onizuka",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Yona of the Dawn",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Special A",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Seitokai Yakuindomo*",
+      "status": "watched",
+      "started": "2020-04-13 13:37:32-07",
+      "completed": "2020-04-13 13:37:32-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Daimidaler: Prince vs. Penguin Empire",
+      "status": "dropped",
+      "started": null,
+      "completed": "2020-04-13 13:41:39-07",
+      "rating": 2,
+      "times": 0,
+      "eps": 9
+    },
+    {
+      "name": "Hinamatsuri",
+      "status": "stalled",
+      "started": "2020-04-13 13:43:40-07",
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 4
+    },
+    {
+      "name": "Princess Connect! Re: Dive",
+      "status": "watched",
+      "started": "2020-05-06 19:04:40-07",
+      "completed": "2020-07-07 17:03:16-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Gleipnir",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Rewrite",
+      "status": "watched",
+      "started": "2020-05-10 11:09:50-07",
+      "completed": "2020-05-11 13:58:43-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "The Fruit of Grisaia",
+      "status": "watched",
+      "started": "2020-05-22 16:14:05-07",
+      "completed": "2020-05-22 16:14:05-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "A Certain Magical Index III",
+      "status": "watched",
+      "started": "2020-05-27 13:42:37-07",
+      "completed": "2020-05-27 13:42:37-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 26
+    },
+    {
+      "name": "A Certain Magical Index II",
+      "status": "watched",
+      "started": "2020-05-27 15:09:07-07",
+      "completed": "2020-05-27 15:09:07-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "The Fruit of Grisaia Specials",
+      "status": "watched",
+      "started": "2020-05-29 21:52:44-07",
+      "completed": "2020-05-29 21:52:44-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 6
+    },
+    {
+      "name": "Neon Genesis Evangelion",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "The Eden of Grisaia",
+      "status": "watched",
+      "started": "2020-06-04 03:14:20-07",
+      "completed": "2020-06-04 03:14:20-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 10
+    },
+    {
+      "name": "The Labyrinth of Grisaia",
+      "status": "watched",
+      "started": "2020-06-04 03:14:38-07",
+      "completed": "2020-06-04 03:14:38-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Tsugumomo 2",
+      "status": "dropped",
+      "started": null,
+      "completed": "2024-08-22 18:17:42-07",
+      "rating": 3,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Lucky Star",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Is this a Zombie? OVA",
+      "status": "watched",
+      "started": "2020-06-16 15:34:11-07",
+      "completed": "2020-06-16 15:34:11-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 2
+    },
+    {
+      "name": "Hanamonogatari",
+      "status": "watched",
+      "started": "2024-08-22 18:18:10-07",
+      "completed": "2024-08-22 18:18:10-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 5
+    },
+    {
+      "name": "Nekomonogatari (Black)",
+      "status": "watched",
+      "started": "2020-07-11 00:28:46-07",
+      "completed": "2020-07-11 00:28:46-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 4
+    },
+    {
+      "name": "Re: Hamatora",
+      "status": "stalled",
+      "started": "2020-07-28 16:49:48-07",
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 4
+    },
+    {
+      "name": "Highschool of the Dead: Drifters of the Dead",
+      "status": "watched",
+      "started": "2020-06-16 15:36:03-07",
+      "completed": "2020-06-16 15:36:03-07",
+      "rating": 2,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Tales of Zestiria: The X",
+      "status": "watched",
+      "started": "2020-06-16 15:46:18-07",
+      "completed": "2020-06-16 15:46:18-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Tales of Zestiria: The X - Age of Chaos",
+      "status": "watched",
+      "started": "2020-06-16 15:46:53-07",
+      "completed": "2020-06-16 15:46:53-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Tales of Zestiria: The X (2017)",
+      "status": "stalled",
+      "started": "2020-06-16 15:47:15-07",
+      "completed": null,
+      "rating": 3,
+      "times": 1,
+      "eps": 5
+    },
+    {
+      "name": "Haikyuu!!",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Kaguya-sama: Love Is War?",
+      "status": "watched",
+      "started": "2021-10-16 17:06:24-07",
+      "completed": "2021-10-16 17:06:24-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "KonoSuba \u2013 God\u2019s blessing on this wonderful world! 2 OVA",
+      "status": "watched",
+      "started": "2020-06-24 02:22:10-07",
+      "completed": "2020-06-24 02:22:10-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "KonoSuba \u2013 God\u2019s blessing on this wonderful world! OVA",
+      "status": "watched",
+      "started": "2020-06-24 02:22:20-07",
+      "completed": "2020-06-24 02:22:20-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Gakuen Alice",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Gungrave",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Kokoro Connect",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "KonoSuba \u2013 God\u2019s blessing on this wonderful world! Movie: Legend of Crimson",
+      "status": "watched",
+      "started": "2020-07-05 07:13:51-07",
+      "completed": "2020-07-05 07:13:51-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Kaguya-sama: Love Is War",
+      "status": "watched",
+      "started": "2020-07-05 07:14:18-07",
+      "completed": "2021-10-16 17:03:29-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Future Diary OVA",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Inu x Boku Secret Service",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Tokyo ESP",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Unlimited Fafnir",
+      "status": "dropped",
+      "started": "2020-07-06 21:17:02-07",
+      "completed": "2020-07-10 23:25:18-07",
+      "rating": 1.5,
+      "times": 0,
+      "eps": 6
+    },
+    {
+      "name": "The God of High School",
+      "status": "watched",
+      "started": "2020-07-09 09:35:57-07",
+      "completed": "2020-10-05 05:45:20-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Fire Force Season 2",
+      "status": "watched",
+      "started": "2020-07-09 09:36:10-07",
+      "completed": "2020-12-14 04:19:25-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Super HxEros",
+      "status": "stalled",
+      "started": "2020-07-09 09:37:36-07",
+      "completed": null,
+      "rating": 2.5,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Zetman",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Speed Grapher",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Uzaki-chan Wants to Hang Out!",
+      "status": "stalled",
+      "started": "2020-07-11 21:51:21-07",
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 7
+    },
+    {
+      "name": "Gintama",
+      "status": "stalled",
+      "started": null,
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Peter Grill and the Philosopher's Time",
+      "status": "dropped",
+      "started": "2020-07-13 16:55:04-07",
+      "completed": "2020-08-03 19:16:06-07",
+      "rating": 3,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Hajime no Ippo: The Fighting!",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Armed Girl\u2019s Machiavellism: Badump! A Pleasure Trip with All the Five Swords",
+      "status": "watched",
+      "started": "2020-07-16 23:36:12-07",
+      "completed": "2020-07-16 23:36:12-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Magi: Adventure of Sinbad",
+      "status": "stalled",
+      "started": "2020-07-22 14:31:08-07",
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 6
+    },
+    {
+      "name": "Welcome to the NHK!",
+      "status": "stalled",
+      "started": "2020-07-23 13:57:31-07",
+      "completed": null,
+      "rating": 4,
+      "times": 0,
+      "eps": 7
+    },
+    {
+      "name": "Sword Art Online: Alicization - War of Underworld",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Neo Yokio",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Daily Lives of High School Boys",
+      "status": "stalled",
+      "started": "2020-08-16 14:20:29-07",
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 2
+    },
+    {
+      "name": "xxxHOLiC",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "The Melancholy of Haruhi Suzumiya",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "The Day I Became a God",
+      "status": "stalled",
+      "started": "2020-10-10 19:43:41-07",
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 5
+    },
+    {
+      "name": "Chao Zhi Neng Zu Qiu",
+      "status": "watched",
+      "started": "2020-08-27 17:30:39-07",
+      "completed": "2020-08-27 17:30:39-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 52
+    },
+    {
+      "name": "Re:ZERO: Starting Life in Another World Season 2",
+      "status": "watched",
+      "started": "2020-08-28 03:01:35-07",
+      "completed": "2020-10-05 05:44:54-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "91 Days",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Juni Taisen: Zodiac War",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Nura: Rise of the Youkai Clan - Demon Capital",
+      "status": "watched",
+      "started": "2020-09-04 14:02:27-07",
+      "completed": "2020-09-04 14:02:27-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Jujutsu Kaisen",
+      "status": "watched",
+      "started": "2020-10-19 00:44:05-07",
+      "completed": "2021-03-27 16:52:48-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Great Pretender",
+      "status": "stalled",
+      "started": "2020-09-09 17:35:19-07",
+      "completed": null,
+      "rating": 4,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon? III",
+      "status": "watched",
+      "started": "2020-10-09 14:02:00-07",
+      "completed": "2020-12-22 11:57:00-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "The Irregular at Magic High School: Visitor Arc",
+      "status": "watched",
+      "started": "2020-10-09 14:02:07-07",
+      "completed": "2020-12-28 06:23:44-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Noblesse",
+      "status": "watched",
+      "started": "2020-10-09 14:02:14-07",
+      "completed": "2020-12-31 10:50:16-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "I'm Standing on a Million Lives",
+      "status": "stalled",
+      "started": "2020-10-09 14:02:24-07",
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 8
+    },
+    {
+      "name": "Higurashi: When They Cry - Gou",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "KING\u2019S RAID: Successors of the Will",
+      "status": "dropped",
+      "started": "2020-10-09 14:02:43-07",
+      "completed": "2020-11-02 08:03:14-08",
+      "rating": 0,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "TONIKAWA: Over the Moon for You",
+      "status": "watched",
+      "started": "2020-10-11 16:18:56-07",
+      "completed": "2021-11-23 20:17:54-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "By the Grace of the Gods",
+      "status": "watched",
+      "started": "2020-10-19 00:44:32-07",
+      "completed": "2020-12-22 11:57:18-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Akudama Drive",
+      "status": "stalled",
+      "started": "2020-10-19 00:45:30-07",
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Talentless Nana",
+      "status": "dropped",
+      "started": "2020-10-25 06:43:26-07",
+      "completed": "2021-02-13 23:37:32-08",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 5
+    },
+    {
+      "name": "Tears to Tiara",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "D-Frag!",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Elemental Gelade",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Maria Holic",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Gunslinger Girl",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Inukami!",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Witchblade",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Demon Slayer: Kimetsu no Yaiba Movie - Mugen Train",
+      "status": "watched",
+      "started": "2021-10-03 03:09:38-07",
+      "completed": "2021-10-03 03:09:55-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "To Love Ru",
+      "status": "stalled",
+      "started": "2020-11-03 12:51:26-08",
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 7
+    },
+    {
+      "name": "Cat Planet Cuties",
+      "status": "watched",
+      "started": "2020-11-03 12:51:37-08",
+      "completed": "2020-11-03 12:51:37-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Radiant 2nd Season",
+      "status": "watched",
+      "started": "2020-11-24 08:16:01-08",
+      "completed": "2020-11-24 08:16:01-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 21
+    },
+    {
+      "name": "Fist of the North Star",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Our Last Crusade or the Rise of a New World",
+      "status": "watched",
+      "started": "2020-12-02 04:38:15-08",
+      "completed": "2021-01-09 11:47:09-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "status": "watched",
+      "started": "2021-01-10 22:52:24-08",
+      "completed": "2021-03-22 02:39:17-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 11
+    },
+    {
+      "name": "Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town",
+      "status": "watched",
+      "started": "2021-01-04 10:11:36-08",
+      "completed": "2021-03-22 11:33:36-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "The Hidden Dungeon Only I Can Enter",
+      "status": "watched",
+      "started": "2021-01-09 11:44:47-08",
+      "completed": "2021-03-27 16:53:12-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "So I'm a Spider, So What?",
+      "status": "watched",
+      "started": "2021-01-09 11:44:52-08",
+      "completed": "2021-10-15 04:03:42-07",
+      "rating": 2,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Re:ZERO: Starting Life in Another World Season 2: Part II",
+      "status": "watched",
+      "started": "2021-01-09 11:45:30-08",
+      "completed": "2021-03-24 09:17:21-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Kemono Jihen",
+      "status": "watched",
+      "started": "2021-01-10 11:40:29-08",
+      "completed": "2021-04-03 15:09:49-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Attack on Titan The Final Season",
+      "status": "stalled",
+      "started": "2021-01-17 11:47:40-08",
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 12
+    },
+    {
+      "name": "Redo of Healer",
+      "status": "stalled",
+      "started": "2021-01-17 11:47:50-08",
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 4
+    },
+    {
+      "name": "Grand Blue",
+      "status": "watched",
+      "started": "2021-02-02 08:19:15-08",
+      "completed": "2021-02-02 08:19:15-08",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "King's Game",
+      "status": "watched",
+      "started": "2021-02-03 07:48:42-08",
+      "completed": "2021-02-03 07:48:42-08",
+      "rating": 0.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "That Time I Got Reincarnated as a Slime Season 2",
+      "status": "watched",
+      "started": "2021-02-14 00:17:06-08",
+      "completed": "2021-04-03 15:09:59-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Yuuna and the Haunted Hot Springs",
+      "status": "stalled",
+      "started": null,
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 7
+    },
+    {
+      "name": "That Time I Got Reincarnated as a Slime OVA",
+      "status": "watched",
+      "started": "2021-03-08 16:02:03-08",
+      "completed": "2021-03-08 16:02:03-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 5
+    },
+    {
+      "name": "Horimiya",
+      "status": "stalled",
+      "started": "2021-04-03 14:38:25-07",
+      "completed": null,
+      "rating": 4,
+      "times": 0,
+      "eps": 6
+    },
+    {
+      "name": "How NOT to Summon a Demon Lord: Omega",
+      "status": "watched",
+      "started": "2021-04-14 21:23:20-07",
+      "completed": "2021-06-16 01:19:15-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 10
+    },
+    {
+      "name": "My Hero Academia 5",
+      "status": "stalled",
+      "started": "2021-04-17 12:57:53-07",
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 10
+    },
+    {
+      "name": "Tokyo Revengers",
+      "status": "stalled",
+      "started": "2021-04-17 12:58:02-07",
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Shaman King (2021)",
+      "status": "dropped",
+      "started": "2021-04-17 12:58:10-07",
+      "completed": "2021-05-09 04:02:16-07",
+      "rating": 1.5,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "The Way of the Househusband",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Osamake: Romcom Where The Childhood Friend Won't Lose",
+      "status": "dropped",
+      "started": "2021-04-17 12:59:10-07",
+      "completed": "2021-10-15 04:04:00-07",
+      "rating": 0,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Combatants Will Be Dispatched!",
+      "status": "watched",
+      "started": "2021-04-17 13:01:42-07",
+      "completed": "2021-09-27 12:56:44-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!",
+      "status": "stalled",
+      "started": "2021-04-17 13:01:49-07",
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 8
+    },
+    {
+      "name": "Record of Ragnarok",
+      "status": "watched",
+      "started": "2021-06-21 06:54:05-07",
+      "completed": "2021-06-27 09:33:16-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Welcome to Demon School, Iruma-kun 2",
+      "status": "stalled",
+      "started": "2021-04-17 13:02:38-07",
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 9
+    },
+    {
+      "name": "86: Eighty-Six",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Vivy: Fluorite Eye's Song",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "How a Realist Hero Rebuilt the Kingdom",
+      "status": "stalled",
+      "started": "2021-07-06 02:55:45-07",
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Remake our Life!",
+      "status": "stalled",
+      "started": "2021-07-06 02:56:29-07",
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Seirei Gensouki: Spirit Chronicles",
+      "status": "watched",
+      "started": "2021-07-06 03:00:09-07",
+      "completed": "2021-09-27 12:57:20-07",
+      "rating": 1.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Mother of the Goddess' Dormitory",
+      "status": "dropped",
+      "started": "2021-07-15 03:31:25-07",
+      "completed": "2021-10-30 18:27:45-07",
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "That Time I Got Reincarnated as a Slime Season 2: Part II",
+      "status": "watched",
+      "started": "2021-07-15 03:31:45-07",
+      "completed": "2021-09-27 12:57:00-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Tsukimichi: Moonlit Fantasy",
+      "status": "watched",
+      "started": "2021-07-15 03:31:55-07",
+      "completed": "2021-09-27 12:57:55-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Drugstore in Another World: The Slow Life of a Cheat Pharmacist",
+      "status": "dropped",
+      "started": "2021-07-15 03:32:16-07",
+      "completed": "2021-10-15 04:04:37-07",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 2
+    },
+    {
+      "name": "The Dungeon of Black Company",
+      "status": "stalled",
+      "started": "2021-07-19 04:26:12-07",
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Blue Period.",
+      "status": "stalled",
+      "started": "2021-09-28 13:25:41-07",
+      "completed": null,
+      "rating": 5,
+      "times": 0,
+      "eps": 5
+    },
+    {
+      "name": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+      "status": "dropped",
+      "started": "2021-10-15 04:38:42-07",
+      "completed": "2022-03-23 01:02:49-07",
+      "rating": 3.5,
+      "times": 0,
+      "eps": 10
+    },
+    {
+      "name": "Mushoku Tensei: Jobless Reincarnation - Part II",
+      "status": "watched",
+      "started": "2021-10-15 04:38:44-07",
+      "completed": "2023-06-29 06:57:13-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Komi Can't Communicate",
+      "status": "dropped",
+      "started": "2021-10-30 18:28:34-07",
+      "completed": "2023-06-29 06:57:02-07",
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Mieruko-chan",
+      "status": "dropped",
+      "started": "2021-10-30 18:28:37-07",
+      "completed": "2022-03-23 01:04:36-07",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 8
+    },
+    {
+      "name": "takt op.Destiny",
+      "status": "dropped",
+      "started": "2021-10-30 18:28:42-07",
+      "completed": "2023-06-29 06:58:38-07",
+      "rating": 4.5,
+      "times": 0,
+      "eps": 10
+    },
+    {
+      "name": "The Fruit of Evolution: Before I Knew It My Life Had It Made",
+      "status": "watched",
+      "started": "2021-10-30 18:28:53-07",
+      "completed": "2023-06-29 06:57:26-07",
+      "rating": 2,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Quanzhi Gaoshou Tebie Pian",
+      "status": "watched",
+      "started": "2021-10-30 18:50:51-07",
+      "completed": "2021-10-30 18:50:51-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 3
+    },
+    {
+      "name": "The King's Avatar 2",
+      "status": "watched",
+      "started": "2021-10-30 18:51:20-07",
+      "completed": "2021-10-30 18:51:20-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Castlevania",
+      "status": "watched",
+      "started": "2021-11-01 22:25:31-07",
+      "completed": "2021-11-01 22:25:31-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 4
+    },
+    {
+      "name": "Castlevania Season 2",
+      "status": "watched",
+      "started": "2021-11-16 16:34:35-08",
+      "completed": "2021-11-16 16:34:35-08",
+      "rating": 5,
+      "times": 1,
+      "eps": 8
+    },
+    {
+      "name": "Castlevania Season 3",
+      "status": "watched",
+      "started": "2021-11-16 16:34:56-08",
+      "completed": "2021-11-16 16:34:56-08",
+      "rating": 5,
+      "times": 1,
+      "eps": 10
+    },
+    {
+      "name": "Castlevania Season 4",
+      "status": "watched",
+      "started": "2021-11-16 16:36:24-08",
+      "completed": "2021-11-16 16:36:24-08",
+      "rating": 5,
+      "times": 1,
+      "eps": 10
+    },
+    {
+      "name": "Quanzhi Gaoshou Movie: For the Glory",
+      "status": "watched",
+      "started": "2021-11-16 16:38:54-08",
+      "completed": "2021-11-16 16:38:54-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "The Case Study of Vanitas",
+      "status": "watched",
+      "started": "2021-11-16 16:40:42-08",
+      "completed": "2021-11-16 16:40:42-08",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Air Gear: Special Trick",
+      "status": "watched",
+      "started": "2021-11-16 16:43:32-08",
+      "completed": "2021-11-16 16:43:32-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Dragon Crisis!",
+      "status": "watched",
+      "started": "2021-11-16 16:46:19-08",
+      "completed": "2021-11-16 16:46:19-08",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Battle Game in 5 Seconds",
+      "status": "watched",
+      "started": "2021-11-16 16:47:54-08",
+      "completed": "2021-11-16 16:47:54-08",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Hayate the Combat Butler!",
+      "status": "stalled",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Chainsaw Man",
+      "status": "watched",
+      "started": "2022-10-18 00:09:17-07",
+      "completed": "2023-06-29 06:58:14-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Bleach: Thousand-Year Blood War",
+      "status": "watched",
+      "started": "2022-11-07 22:13:06-08",
+      "completed": "2023-06-29 06:56:37-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV: Part II",
+      "status": "watched",
+      "started": "2023-03-16 15:31:15-07",
+      "completed": "2023-06-29 06:58:19-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 11
+    },
+    {
+      "name": "The Caf\u00e9 Terrace and Its Goddesses",
+      "status": "stalled",
+      "started": "2023-05-01 09:15:08-07",
+      "completed": null,
+      "rating": 4,
+      "times": 0,
+      "eps": 4
+    },
+    {
+      "name": "The Kingdoms of Ruin",
+      "status": "dropped",
+      "started": "2023-10-09 19:03:15-07",
+      "completed": "2024-08-22 18:16:22-07",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Call of the Night",
+      "status": "watched",
+      "started": "2023-10-16 06:19:12-07",
+      "completed": "2023-10-16 06:19:12-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Shangri-La Frontier",
+      "status": "watched",
+      "started": "2023-11-26 02:50:58-08",
+      "completed": "2024-06-18 12:20:44-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 25
+    },
+    {
+      "name": "Mushoku Tensei: Jobless Reincarnation 2nd Season - Part II",
+      "status": "watched",
+      "started": "2024-06-30 20:34:32-07",
+      "completed": "2024-06-30 20:34:32-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Mushoku Tensei: Jobless Reincarnation 2nd Season",
+      "status": "watched",
+      "started": "2024-06-30 20:36:39-07",
+      "completed": "2024-06-30 20:36:39-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Jormungand: Perfect Order",
+      "status": "watched",
+      "started": "2024-08-28 20:32:15-07",
+      "completed": "2024-08-28 20:32:15-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    }
+  ]
+}
